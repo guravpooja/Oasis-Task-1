@@ -11,14 +11,16 @@ MODEL BUILDING (Train-Test Split)
 
 Dataset Used : "Iris.csv"
 Solved with :
-Logistic Regression Algorithm
+Logistic Regression Algorithm,
 KNN Algorithm
 
-Technologies Used : Python, Machine Learning
+Technologies Used :
+Python,
+Machine Learning
 
 Python libraries used :
-numpy
-pandas
-matplotlib
-sklearn
+numpy,
+pandas,
+matplotlib,
+sklearn,
 seaborn
